@@ -5,7 +5,7 @@ Our team wants to track and analyze the outbreak of Corona Virus against the 200
 Our analysis will include comparing  confirmed cases, deaths, and recoveries of each pandemic by:
     -Geography
     -Date
-    -Prevalence Amongst Gender
+    -Gender
     -Age
 
 We also want to use the SARS outbreak, if possible, to determine the time to peak spread of the Corona Virus.
