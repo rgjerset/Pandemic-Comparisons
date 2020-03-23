@@ -1,0 +1,197 @@
+Virus,Country/Region,Total Cases,Total Recoveries,Total Deaths
+COVID19,China,81251,71266,3253
+COVID19,Italy,47021,4440,4032
+COVID19,Spain,20410,1588,1043
+COVID19,Germany,19848,180,67
+COVID19,Iran,19644,6745,1433
+COVID19,US,19102,17,244
+COVID19,France,12726,12,450
+COVID19,"Korea, South",8652,1540,94
+COVID19,Switzerland,5294,15,54
+COVID19,United Kingdom,4014,67,178
+COVID19,Netherlands,3003,2,107
+COVID19,Austria,2388,9,6
+COVID19,Belgium,2257,31,37
+COVID19,Norway,1914,1,7
+COVID19,Sweden,1639,16,16
+COVID19,Denmark,1337,1,9
+COVID19,Malaysia,1030,87,3
+COVID19,Portugal,1020,5,6
+COVID19,Japan,963,191,33
+COVID19,Canada,943,9,12
+COVID19,Czechia,833,4,0
+COVID19,Australia,799,26,7
+COVID19,Brazil,793,2,11
+COVID19,Cruise Ship,712,325,7
+COVID19,Israel,705,14,0
+COVID19,Ireland,683,5,3
+COVID19,Pakistan,501,13,3
+COVID19,Greece,495,19,6
+COVID19,Luxembourg,484,0,4
+COVID19,Qatar,470,10,0
+COVID19,Finland,450,10,0
+COVID19,Chile,434,6,0
+COVID19,Poland,425,13,5
+COVID19,Iceland,409,8,5
+COVID19,Singapore,385,124,0
+COVID19,Indonesia,369,15,32
+COVID19,Ecuador,367,0,5
+COVID19,Turkey,359,0,4
+COVID19,Saudi Arabia,344,8,0
+COVID19,Slovenia,341,0,1
+COVID19,Thailand,322,42,1
+COVID19,Romania,308,25,0
+COVID19,Bahrain,285,100,1
+COVID19,Egypt,285,39,8
+COVID19,Estonia,283,1,0
+COVID19,Russia,253,9,1
+COVID19,India,244,20,5
+COVID19,Peru,234,1,3
+COVID19,Philippines,230,8,19
+COVID19,Iraq,208,49,17
+COVID19,South Africa,202,0,0
+COVID19,Mexico,164,4,1
+COVID19,Lebanon,163,4,4
+COVID19,Kuwait,159,18,0
+COVID19,San Marino,144,4,14
+COVID19,United Arab Emirates,140,31,2
+COVID19,Panama,137,0,1
+COVID19,Slovakia,137,0,1
+COVID19,Armenia,136,1,0
+COVID19,Taiwan*,135,26,2
+COVID19,Serbia,135,1,1
+COVID19,Croatia,128,5,1
+COVID19,Argentina,128,3,3
+COVID19,Colombia,128,1,0
+COVID19,Bulgaria,127,0,3
+COVID19,Latvia,111,1,0
+COVID19,Uruguay,94,0,0
+COVID19,Vietnam,91,16,0
+COVID19,Algeria,90,32,11
+COVID19,Bosnia and Herzegovina,89,2,0
+COVID19,Costa Rica,89,0,1
+COVID19,Hungary,85,2,3
+COVID19,Jordan,85,1,0
+COVID19,Brunei,78,1,0
+COVID19,Morocco,77,1,3
+COVID19,Andorra,75,1,0
+COVID19,Sri Lanka,73,3,0
+COVID19,Dominican Republic,72,0,2
+COVID19,Albania,70,0,2
+COVID19,Belarus,69,5,0
+COVID19,North Macedonia,67,1,0
+COVID19,Cyprus,67,0,0
+COVID19,Moldova,66,1,1
+COVID19,Malta,64,2,0
+COVID19,Tunisia,54,0,1
+COVID19,Cambodia,51,1,0
+COVID19,Lithuania,49,1,0
+COVID19,Kazakhstan,49,0,3
+COVID19,Oman,48,12,0
+COVID19,Azerbaijan,44,6,1
+COVID19,Georgia,43,1,0
+COVID19,Venezuela,42,0,0
+COVID19,Burkina Faso,40,0,1
+COVID19,New Zealand,39,0,0
+COVID19,Senegal,38,2,0
+COVID19,Uzbekistan,33,0,0
+COVID19,Martinique,32,0,1
+COVID19,Ukraine,29,0,3
+COVID19,Liechtenstein,28,0,0
+COVID19,Afghanistan,24,1,0
+COVID19,Honduras,24,0,0
+COVID19,Bangladesh,20,3,1
+COVID19,Cameroon,20,0,0
+COVID19,Congo (Kinshasa),18,0,0
+COVID19,Rwanda,17,0,0
+COVID19,Ghana,16,0,0
+COVID19,Cuba,16,0,1
+COVID19,Jamaica,16,2,1
+COVID19,Bolivia,15,0,0
+COVID19,Montenegro,14,0,0
+COVID19,Maldives,13,0,0
+COVID19,Paraguay,13,0,0
+COVID19,Mauritius,12,0,0
+COVID19,Nigeria,12,1,0
+COVID19,Guatemala,12,0,1
+COVID19,Monaco,11,0,0
+COVID19,Trinidad and Tobago,9,0,0
+COVID19,Cote d'Ivoire,9,1,0
+COVID19,Ethiopia,9,0,0
+COVID19,Togo,9,1,0
+COVID19,Seychelles,7,0,0
+COVID19,Kenya,7,0,0
+COVID19,Guyana,7,0,1
+COVID19,Kyrgyzstan,6,0,0
+COVID19,Equatorial Guinea,6,0,0
+COVID19,Tanzania,6,0,0
+COVID19,Mongolia,6,0,0
+COVID19,Barbados,5,0,0
+COVID19,Suriname,4,0,0
+COVID19,Central African Republic,3,0,0
+COVID19,Gabon,3,0,1
+COVID19,"Bahamas, The",3,0,0
+COVID19,Congo (Brazzaville),3,0,0
+COVID19,Namibia,3,0,0
+COVID19,Madagascar,3,0,0
+COVID19,Benin,2,0,0
+COVID19,Zambia,2,0,0
+COVID19,Saint Lucia,2,0,0
+COVID19,Sudan,2,0,1
+COVID19,Liberia,2,0,0
+COVID19,Mauritania,2,0,0
+COVID19,Haiti,2,0,0
+COVID19,Kosovo,2,0,0
+COVID19,Bhutan,2,0,0
+COVID19,Antigua and Barbuda,1,0,0
+COVID19,Cabo Verde,1,0,0
+COVID19,Djibouti,1,0,0
+COVID19,Chad,1,0,0
+COVID19,Angola,1,0,0
+COVID19,Papua New Guinea,1,0,0
+COVID19,El Salvador,1,0,0
+COVID19,Eswatini,1,0,0
+COVID19,Fiji,1,0,0
+COVID19,Niger,1,0,0
+COVID19,"Gambia, The",1,0,0
+COVID19,Guinea,1,0,0
+COVID19,Somalia,1,0,0
+COVID19,Holy See,1,0,0
+COVID19,Saint Vincent and the Grenadines,1,0,0
+COVID19,Nepal,1,1,0
+COVID19,Nicaragua,1,0,0
+COVID19,Zimbabwe,1,0,0
+SARS,China,7754,6882,730
+SARS,Canada,250,194,38
+SARS,Singapore,206,172,32
+SARS,US,75,67,0
+SARS,Vietnam,63,58,5
+SARS,Philippines,14,12,2
+SARS,Germany,10,9,0
+SARS,Mongolia,9,9,0
+SARS,Thailand,9,7,2
+SARS,France,7,6,1
+SARS,Australia,5,5,0
+SARS,Malaysia,5,3,2
+SARS,Italy,4,4,0
+SARS,United Kingdom,4,4,0
+SARS,India,3,3,0
+SARS,"Korea, South",3,3,0
+SARS,Sweden,3,3,0
+SARS,Indonesia,2,2,0
+SARS,Belgium,1,0,0
+SARS,New Zealand,1,1,0
+SARS,Finland,1,1,0
+SARS,Poland,1,0,0
+SARS,Ireland,1,1,0
+SARS,Russia,1,0,0
+SARS,Colombia,1,1,0
+SARS,Slovenia,1,0,0
+SARS,South Africa,1,0,1
+SARS,Spain,1,1,0
+SARS,Kuwait,1,1,0
+SARS,Switzerland,1,1,0
+SARS,Bulgaria,1,0,0
+SARS,Brazil,1,1,0
+SARS,Japan,1,0,0
+SARS,Romania,1,1,0
